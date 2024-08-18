@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5aVlKLVxFP8" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">MINIGAME GIẢI Ô CHỮ</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H10M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="MINIGAME_GIẢI_Ô_CHỮ_ORG">
+    <organization identifier="MINIGAME_GIẢI_Ô_CHỮ_ORG">
+      <title>MINIGAME GIẢI Ô CHỮ</title>
+      <item identifier="MINIGAME_GIAI_O_CHU_SCO" isvisible="true" identifierref="__5aVlKLVxFP8_RES">
+        <title>MINIGAME GIẢI Ô CHỮ</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5aVlKLVxFP8_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Vi6fW2NkiZ.png" />
+      <file href="mobile/6mORuHepzYq.png" />
+      <file href="mobile/6mORuHepzYq_C30.png" />
+      <file href="mobile/5zUuGcMzuju.jpg" />
+      <file href="mobile/5XvWcMq3eSw.png" />
+      <file href="mobile/6dMCIybLI00.png" />
+      <file href="mobile/6mORuHepzYq_C20.png" />
+      <file href="mobile/6VRaCrtVL0t.png" />
+      <file href="mobile/6VRaCrtVL0t_C20.png" />
+      <file href="mobile/5hQfjstRkFW.png" />
+      <file href="mobile/6VRaCrtVL0t_C30.png" />
+      <file href="mobile/6YKygk8VnLN.png" />
+      <file href="mobile/5hYpGRJRs9t.png" />
+      <file href="mobile/5jfwpaOEUTU.png" />
+      <file href="mobile/5cW5A0Isolc.png" />
+      <file href="mobile/63B3C3k6iLu.png" />
+      <file href="mobile/5gYcze0O2rT.png" />
+      <file href="mobile/6RWXSGPKgaQ.png" />
+      <file href="mobile/6FhyTMb4IeG.png" />
+      <file href="mobile/6ZK4mu86xvJ.png" />
+      <file href="mobile/5fkELoNQ1mC.png" />
+      <file href="mobile/654cpdkVQny.png" />
+      <file href="mobile/6a8KIpqBMwB.png" />
+      <file href="mobile/6nIqlhli4H5.png" />
+      <file href="mobile/6Cte2HcsC6L.png" />
+      <file href="mobile/6Cte2HcsC6L_C20.png" />
+      <file href="story_content/6iHnXyWhOGw_44100_56_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6nfoPOA6g6d.png" />
+      <file href="mobile/txt__default_6k8U6pMTNQE.png" />
+      <file href="mobile/txt__default_5uSmUKy1Y2N.png" />
+      <file href="mobile/txt__default_6Jn7l8Z7CtT.png" />
+      <file href="mobile/txt__default_6jvbjtvTAtU.png" />
+      <file href="mobile/txt__default_6GegkNjFeER.png" />
+      <file href="mobile/txt__default_5op4Ko7Cef6.png" />
+      <file href="mobile/txt__default_6id8CRcXRph.png" />
+      <file href="mobile/txt__default_6dQhfTpynMB.png" />
+      <file href="mobile/txt__default_6Kjy8oCLkQt.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5yd192J8jAZ.js" />
+      <file href="html5/data/js/60gnXnlCI73.js" />
+      <file href="html5/data/js/6hvSzSffznw.js" />
+      <file href="html5/data/js/6pU4vzdCTGq.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
